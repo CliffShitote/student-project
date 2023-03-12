@@ -38,6 +38,9 @@ Microsoft sees all the big companies creating original video content, and they w
 >#data_merged_movie = data_gp_movie.first()
 >data_merged_movie
 # Visualizations
+![Screenshot (91)](https://user-images.githubusercontent.com/124627374/224565174-4dfac731-a427-4eab-ae03-e9ab7d5ace87.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/124627374/224565193-5bcceb1f-dfd9-46a8-a018-abb489072e27.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/124627374/224565198-d68d9b01-2ac3-4eb9-b2da-bd7c7f508581.png)
 # Conclusion
 > Project will consider these datasets: 'tn.movie_budgets.csv.gz' and 'tmdb.movies.csv.gz' and 'imdb.title.basics.csv.gz'
 > The bottom line for the "success" of a film is the money it makes (profits). Variables that may influence the "success" of a film:
